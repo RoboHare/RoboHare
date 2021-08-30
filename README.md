@@ -4,7 +4,7 @@ I am a software developer from the UK. I have been involved in web technologies 
 
 My intentions are to create content to better hone my skills as well as share with the community in the form of blog posts and video tutorials. I want to help others in their daily development lives and promote better practices and skill sharing.
 
-> > Knowledge increases by sharing, not by saving.
+> Knowledge increases by sharing, not by saving.
 
 
 *Kamari*
