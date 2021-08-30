@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a software developer from the UK. I have been involved in web technologies for many years and more recently professionally involved in backend programming for a 3D rendering engine.
+
+I have a passion for all things science, for arts, for music, history and philosopgy. Day to day I strive toward the persistent pursuit of knowledge around new technologies and processes. I have a keen eye for design as well as optimised, clean, readable and practical code. Though I have a love of theory, I have pragmatic values and aim toward as lean approach as possible without compromising quality. 
+
 - 🔭 I’m currently working on 
 
 1) An automated BitCoin trading bot
